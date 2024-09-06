@@ -48,7 +48,7 @@ To set up the project, follow the steps below:
     export MISTRAL_API_KEY="your_api_key"
     ```
 
-4. Ensure that your ChromaDB is set up correctly for persistence.
+
 
 
 
