@@ -1,7 +1,7 @@
 
 # Multi-Document Agent System with LLaMA and Mistral
 
-This project implements a multi-document agent system using advanced language models, vector stores, and document summarization techniques. The goal is to facilitate the querying and summarizing of documents, such as contracts, using vector-based searches and large language models (LLMs).
+This project implements a multi-document agent system using advanced language models, vector stores, and document summarization techniques. The goal is to facilitate the querying and summarizing of documents, such as contracts, using vector-based searches and large language models (LLMs). A demo version has been shared with you.
 
 ## Features
 - **Document Loading and Querying:** Load documents from directories, split them into manageable chunks, and create vector stores for querying.
